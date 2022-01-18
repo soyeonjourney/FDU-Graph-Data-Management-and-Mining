@@ -1,0 +1,5 @@
+JRE 1.8:
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+Trove 3.0.3: Download the jar file and put into this directory.
+https://bitbucket.org/trove4j/trove/downloads/

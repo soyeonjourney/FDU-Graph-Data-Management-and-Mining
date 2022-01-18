@@ -1,0 +1,383 @@
+GCN
+Cora
+====
+path logger: runs\GCN-Cora1-Adam
+Val Loss: 0.8190, Test Accuracy: 81.17 ± 0.48, Duration: 1.625
+
+path logger: runs\GCN-Cora2-Adam
+Val Loss: 0.6616, Test Accuracy: 86.23 ± 0.41, Duration: 1.657
+
+path logger: runs\GCN-Cora3-Adam
+Val Loss: 0.7324, Test Accuracy: 87.90 ± 0.82, Duration: 1.698
+
+gamma: 1.0
+path logger: runs\GCN-Cora1-Adam-gamma1.0
+Val Loss: 0.6248, Test Accuracy: 82.83 ± 0.84, Duration: 1.710
+
+gamma: 2.0
+path logger: runs\GCN-Cora1-Adam-gamma2.0
+Val Loss: 0.6246, Test Accuracy: 82.76 ± 0.85, Duration: 1.676
+
+gamma: 3.0
+path logger: runs\GCN-Cora1-Adam-gamma3.0
+Val Loss: 0.6256, Test Accuracy: 82.79 ± 0.85, Duration: 1.641
+
+gamma: 4.0
+path logger: runs\GCN-Cora1-Adam-gamma4.0
+Val Loss: 0.6291, Test Accuracy: 82.67 ± 0.80, Duration: 1.649
+
+gamma: 5.0
+path logger: runs\GCN-Cora1-Adam-gamma5.0
+Val Loss: 0.6326, Test Accuracy: 82.67 ± 0.74, Duration: 1.628
+
+gamma: 6.0
+path logger: runs\GCN-Cora1-Adam-gamma6.0
+Val Loss: 0.6365, Test Accuracy: 82.68 ± 0.76, Duration: 1.673
+
+gamma: 7.0
+path logger: runs\GCN-Cora1-Adam-gamma7.0
+Val Loss: 0.6408, Test Accuracy: 82.69 ± 0.71, Duration: 1.674
+
+gamma: 8.0
+path logger: runs\GCN-Cora1-Adam-gamma8.0
+Val Loss: 0.6442, Test Accuracy: 82.64 ± 0.80, Duration: 1.646
+
+gamma: 9.0
+path logger: runs\GCN-Cora1-Adam-gamma9.0
+Val Loss: 0.6483, Test Accuracy: 82.56 ± 0.74, Duration: 1.656
+
+gamma: 10.0
+path logger: runs\GCN-Cora1-Adam-gamma10.0
+Val Loss: 0.6520, Test Accuracy: 82.56 ± 0.75, Duration: 1.658
+
+gamma: 1.0
+path logger: runs\GCN-Cora2-Adam-gamma1.0
+Val Loss: 0.5564, Test Accuracy: 83.06 ± 2.93, Duration: 1.692
+
+gamma: 2.0
+path logger: runs\GCN-Cora2-Adam-gamma2.0
+Val Loss: 0.5441, Test Accuracy: 84.34 ± 1.58, Duration: 1.708
+
+gamma: 3.0
+path logger: runs\GCN-Cora2-Adam-gamma3.0
+Val Loss: 0.5423, Test Accuracy: 84.98 ± 0.86, Duration: 1.702
+
+gamma: 4.0
+path logger: runs\GCN-Cora2-Adam-gamma4.0
+Val Loss: 0.5438, Test Accuracy: 85.17 ± 0.72, Duration: 1.661
+
+gamma: 5.0
+path logger: runs\GCN-Cora2-Adam-gamma5.0
+Val Loss: 0.5464, Test Accuracy: 85.17 ± 0.70, Duration: 1.693
+
+gamma: 6.0
+path logger: runs\GCN-Cora2-Adam-gamma6.0
+Val Loss: 0.5498, Test Accuracy: 85.23 ± 0.63, Duration: 1.694
+
+gamma: 7.0
+path logger: runs\GCN-Cora2-Adam-gamma7.0
+Val Loss: 0.5531, Test Accuracy: 85.17 ± 0.66, Duration: 1.722
+
+gamma: 8.0
+path logger: runs\GCN-Cora2-Adam-gamma8.0
+Val Loss: 0.5564, Test Accuracy: 85.11 ± 0.68, Duration: 1.727
+
+gamma: 9.0
+path logger: runs\GCN-Cora2-Adam-gamma9.0
+Val Loss: 0.5597, Test Accuracy: 85.13 ± 0.67, Duration: 1.704
+
+gamma: 10.0
+path logger: runs\GCN-Cora2-Adam-gamma10.0
+Val Loss: 0.5627, Test Accuracy: 85.11 ± 0.74, Duration: 1.640
+
+gamma: 1.0
+path logger: runs\GCN-Cora3-Adam-gamma1.0
+Val Loss: 0.6475, Test Accuracy: 84.58 ± 2.21, Duration: 1.718
+
+gamma: 2.0
+path logger: runs\GCN-Cora3-Adam-gamma2.0
+Val Loss: 0.6319, Test Accuracy: 85.26 ± 1.92, Duration: 1.634
+
+gamma: 3.0
+path logger: runs\GCN-Cora3-Adam-gamma3.0
+Val Loss: 0.6198, Test Accuracy: 86.04 ± 1.88, Duration: 1.710
+
+gamma: 4.0
+path logger: runs\GCN-Cora3-Adam-gamma4.0
+Val Loss: 0.6169, Test Accuracy: 86.40 ± 1.61, Duration: 1.682
+
+gamma: 5.0
+path logger: runs\GCN-Cora3-Adam-gamma5.0
+Val Loss: 0.6182, Test Accuracy: 86.48 ± 1.56, Duration: 1.696
+
+gamma: 6.0
+path logger: runs\GCN-Cora3-Adam-gamma6.0
+Val Loss: 0.6214, Test Accuracy: 86.60 ± 1.49, Duration: 1.664
+
+gamma: 7.0
+path logger: runs\GCN-Cora3-Adam-gamma7.0
+Val Loss: 0.6249, Test Accuracy: 86.68 ± 1.46, Duration: 1.667
+
+gamma: 8.0
+path logger: runs\GCN-Cora3-Adam-gamma8.0
+Val Loss: 0.6281, Test Accuracy: 86.62 ± 1.54, Duration: 1.651
+
+gamma: 9.0
+path logger: runs\GCN-Cora3-Adam-gamma9.0
+Val Loss: 0.6319, Test Accuracy: 86.70 ± 1.48, Duration: 1.700
+
+gamma: 10.0
+path logger: runs\GCN-Cora3-Adam-gamma10.0
+Val Loss: 0.6353, Test Accuracy: 86.76 ± 1.52, Duration: 1.685
+
+eps: 0.001
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.001
+D:\Anaconda\envs\StAR\lib\site-packages\torch\nn\modules\module.py:974: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Val Loss: 0.8422, Test Accuracy: 76.74 ± 1.96, Duration: 2.212
+
+eps: 0.0021544346900318843
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.0021544346900318843
+Val Loss: 0.8139, Test Accuracy: 77.80 ± 1.57, Duration: 2.018
+
+eps: 0.004641588833612777
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.004641588833612777
+Val Loss: 0.8001, Test Accuracy: 78.38 ± 1.48, Duration: 2.096
+
+eps: 0.01
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.01
+Val Loss: 0.7905, Test Accuracy: 78.81 ± 1.32, Duration: 2.225
+
+eps: 0.021544346900318832
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.021544346900318832
+Val Loss: 0.7849, Test Accuracy: 79.28 ± 1.42, Duration: 2.288
+
+eps: 0.046415888336127774
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.046415888336127774
+Val Loss: 0.7851, Test Accuracy: 79.47 ± 1.32, Duration: 2.473
+
+eps: 0.1
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.1
+Val Loss: 0.7905, Test Accuracy: 79.98 ± 0.90, Duration: 2.470
+
+eps: 0.21544346900318823
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.21544346900318823
+Val Loss: 0.8018, Test Accuracy: 80.91 ± 0.85, Duration: 2.571
+
+eps: 0.46415888336127775
+path logger: runs\GCN-Cora1-Adam-KFAC-eps0.46415888336127775
+Val Loss: 0.8200, Test Accuracy: 81.24 ± 0.54, Duration: 2.590
+
+eps: 1.0
+path logger: runs\GCN-Cora1-Adam-KFAC-eps1.0
+Val Loss: 0.8649, Test Accuracy: 81.07 ± 0.47, Duration: 2.724
+
+eps: 0.001
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.001
+D:\Anaconda\envs\StAR\lib\site-packages\torch\nn\modules\module.py:974: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Val Loss: 0.4423, Test Accuracy: 85.89 ± 0.26, Duration: 2.152
+
+eps: 0.0021544346900318843
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.0021544346900318843
+Val Loss: 0.4376, Test Accuracy: 85.89 ± 0.28, Duration: 2.064
+
+eps: 0.004641588833612777
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.004641588833612777
+Val Loss: 0.4338, Test Accuracy: 85.90 ± 0.33, Duration: 2.255
+
+eps: 0.01
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.01
+Val Loss: 0.4314, Test Accuracy: 86.07 ± 0.27, Duration: 2.224
+
+eps: 0.021544346900318832
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.021544346900318832
+Val Loss: 0.4308, Test Accuracy: 86.31 ± 0.23, Duration: 2.289
+
+eps: 0.046415888336127774
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.046415888336127774
+Val Loss: 0.4347, Test Accuracy: 86.63 ± 0.15, Duration: 2.400
+
+eps: 0.1
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.1
+Val Loss: 0.4454, Test Accuracy: 87.09 ± 0.35, Duration: 2.470
+
+eps: 0.21544346900318823
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.21544346900318823
+Val Loss: 0.4717, Test Accuracy: 87.17 ± 0.39, Duration: 2.538
+
+eps: 0.46415888336127775
+path logger: runs\GCN-Cora2-Adam-KFAC-eps0.46415888336127775
+Val Loss: 0.5298, Test Accuracy: 87.13 ± 0.43, Duration: 2.579
+
+eps: 1.0
+path logger: runs\GCN-Cora2-Adam-KFAC-eps1.0
+Val Loss: 0.6418, Test Accuracy: 86.45 ± 0.47, Duration: 2.691
+
+eps: 0.001
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.001
+D:\Anaconda\envs\StAR\lib\site-packages\torch\nn\modules\module.py:974: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Val Loss: 0.4529, Test Accuracy: 89.02 ± 0.27, Duration: 2.111
+
+eps: 0.0021544346900318843
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.0021544346900318843
+Val Loss: 0.4487, Test Accuracy: 89.02 ± 0.36, Duration: 2.029
+
+eps: 0.004641588833612777
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.004641588833612777
+Val Loss: 0.4457, Test Accuracy: 89.12 ± 0.34, Duration: 2.079
+
+eps: 0.01
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.01
+Val Loss: 0.4440, Test Accuracy: 89.18 ± 0.36, Duration: 2.232
+
+eps: 0.021544346900318832
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.021544346900318832
+Val Loss: 0.4442, Test Accuracy: 89.30 ± 0.34, Duration: 2.265
+
+eps: 0.046415888336127774
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.046415888336127774
+Val Loss: 0.4482, Test Accuracy: 89.28 ± 0.45, Duration: 2.371
+
+eps: 0.1
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.1
+Val Loss: 0.4625, Test Accuracy: 89.40 ± 0.23, Duration: 2.433
+
+eps: 0.21544346900318823
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.21544346900318823
+Val Loss: 0.4959, Test Accuracy: 89.42 ± 0.49, Duration: 2.514
+
+eps: 0.46415888336127775
+path logger: runs\GCN-Cora3-Adam-KFAC-eps0.46415888336127775
+Val Loss: 0.5626, Test Accuracy: 89.60 ± 0.39, Duration: 2.592
+
+eps: 1.0
+path logger: runs\GCN-Cora3-Adam-KFAC-eps1.0
+Val Loss: 0.6942, Test Accuracy: 88.44 ± 0.64, Duration: 2.695
+
+gamma: 1.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma1.0
+D:\Anaconda\envs\StAR\lib\site-packages\torch\nn\modules\module.py:974: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Val Loss: 0.6971, Test Accuracy: 80.24 ± 2.96, Duration: 2.162
+
+gamma: 2.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma2.0
+Val Loss: 0.6590, Test Accuracy: 82.17 ± 1.10, Duration: 2.075
+
+gamma: 3.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma3.0
+Val Loss: 0.6678, Test Accuracy: 81.91 ± 1.48, Duration: 2.337
+
+gamma: 4.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma4.0
+Val Loss: 0.6694, Test Accuracy: 81.93 ± 1.65, Duration: 2.351
+
+gamma: 5.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma5.0
+Val Loss: 0.6706, Test Accuracy: 81.71 ± 1.70, Duration: 2.460
+
+gamma: 6.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma6.0
+Val Loss: 0.6742, Test Accuracy: 81.44 ± 1.86, Duration: 2.462
+
+gamma: 7.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma7.0
+Val Loss: 0.6782, Test Accuracy: 81.43 ± 1.89, Duration: 2.539
+
+gamma: 8.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma8.0
+Val Loss: 0.6821, Test Accuracy: 81.23 ± 1.86, Duration: 2.527
+
+gamma: 9.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma9.0
+Val Loss: 0.6870, Test Accuracy: 80.97 ± 1.79, Duration: 2.661
+
+gamma: 10.0
+path logger: runs\GCN-Cora1-Adam-KFAC-gamma10.0
+Val Loss: 0.6916, Test Accuracy: 81.00 ± 1.76, Duration: 2.704
+
+gamma: 1.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma1.0
+D:\Anaconda\envs\StAR\lib\site-packages\torch\nn\modules\module.py:974: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Val Loss: 0.4279, Test Accuracy: 86.37 ± 0.22, Duration: 2.158
+
+gamma: 2.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma2.0
+Val Loss: 0.4252, Test Accuracy: 86.22 ± 0.33, Duration: 2.071
+
+gamma: 3.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma3.0
+Val Loss: 0.4247, Test Accuracy: 86.10 ± 0.38, Duration: 2.197
+
+gamma: 4.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma4.0
+Val Loss: 0.4241, Test Accuracy: 86.10 ± 0.40, Duration: 2.288
+
+gamma: 5.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma5.0
+Val Loss: 0.4242, Test Accuracy: 86.08 ± 0.34, Duration: 2.323
+
+gamma: 6.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma6.0
+Val Loss: 0.4243, Test Accuracy: 86.04 ± 0.32, Duration: 2.400
+
+gamma: 7.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma7.0
+Val Loss: 0.4245, Test Accuracy: 86.05 ± 0.38, Duration: 2.518
+
+gamma: 8.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma8.0
+Val Loss: 0.4245, Test Accuracy: 86.08 ± 0.35, Duration: 2.606
+
+gamma: 9.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma9.0
+Val Loss: 0.4247, Test Accuracy: 86.04 ± 0.34, Duration: 2.695
+
+gamma: 10.0
+path logger: runs\GCN-Cora2-Adam-KFAC-gamma10.0
+Val Loss: 0.4250, Test Accuracy: 86.01 ± 0.37, Duration: 2.794
+
+gamma: 1.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma1.0
+D:\Anaconda\envs\StAR\lib\site-packages\torch\nn\modules\module.py:974: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Val Loss: 0.4202, Test Accuracy: 89.12 ± 0.50, Duration: 2.163
+
+gamma: 2.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma2.0
+Val Loss: 0.4219, Test Accuracy: 89.16 ± 0.67, Duration: 2.087
+
+gamma: 3.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma3.0
+Val Loss: 0.4242, Test Accuracy: 89.26 ± 0.52, Duration: 2.199
+
+gamma: 4.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma4.0
+Val Loss: 0.4259, Test Accuracy: 89.22 ± 0.42, Duration: 2.261
+
+gamma: 5.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma5.0
+Val Loss: 0.4272, Test Accuracy: 89.38 ± 0.38, Duration: 2.386
+
+gamma: 6.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma6.0
+Val Loss: 0.4281, Test Accuracy: 89.38 ± 0.36, Duration: 2.476
+
+gamma: 7.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma7.0
+Val Loss: 0.4291, Test Accuracy: 89.42 ± 0.35, Duration: 2.553
+
+gamma: 8.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma8.0
+Val Loss: 0.4300, Test Accuracy: 89.46 ± 0.37, Duration: 2.645
+
+gamma: 9.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma9.0
+Val Loss: 0.4307, Test Accuracy: 89.42 ± 0.37, Duration: 2.669
+
+gamma: 10.0
+path logger: runs\GCN-Cora3-Adam-KFAC-gamma10.0
+Val Loss: 0.4313, Test Accuracy: 89.44 ± 0.36, Duration: 2.783
