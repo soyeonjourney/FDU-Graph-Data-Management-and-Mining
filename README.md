@@ -1,6 +1,9 @@
-# Graph-Data-Management-and-Mining
+<h1 align = "center">Graph Data Management and Mining (2021 Fall)</h1>
+
+## Introduction
+
 This repo includes all projects in Graph Data Management and Mining course (DATA130045.01) in School of Data Science @Fudan University.
-Author: [Yi Shao](https://github.com/Tequila-Sunrise) [Ying Lu](https://github.com/vegetablest-dog) [Boyuan Yao](https://github.com/Cypher30)
+Author: [Yi Shao](https://github.com/Tequila-Sunrise) [Ying Lu](https://github.com/vegetablest-dog) [Boyuan Yao](https://github.com/Cypher30) 
 
 ## Project 1: K-hop Reachability
 
